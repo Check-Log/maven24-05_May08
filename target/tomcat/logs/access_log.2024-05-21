@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/May/2024:02:04:09 +0100] "GET /maven24-05_May08 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [21/May/2024:02:04:09 +0100] "GET /maven24-05_May08/ HTTP/1.1" 200 124 http-bio-8080-exec-2 491
+127.0.0.1 - - [21/May/2024:02:04:09 +0100] "GET /maven24-05_May08/resources/img/OliviaHalford04a.png HTTP/1.1" 200 1438595 http-bio-8080-exec-3 110
+127.0.0.1 - - [21/May/2024:12:04:40 +0100] "GET /maven24-05_May08/ HTTP/1.1" 200 129 http-bio-8080-exec-1 535
+127.0.0.1 - - [21/May/2024:12:04:40 +0100] "GET /maven24-05_May08/resources/img/OliviaHalford04a.png HTTP/1.1" 200 1438595 http-bio-8080-exec-2 135
+127.0.0.1 - - [21/May/2024:12:04:51 +0100] "GET /maven24-05_May08/ HTTP/1.1" 200 127 http-bio-8080-exec-3 53
